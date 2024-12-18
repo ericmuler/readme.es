@@ -1,4 +1,4 @@
-# readme.es
+# Eric Mulero Fernandez
 <h1 align="center">Hola me llamo Eric Mulero</h1>
 <h3 align="center">Un semiprogramador frikoso y en vias de profesionalizarse</h3>
 
