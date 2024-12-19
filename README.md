@@ -1,4 +1,4 @@
-<h1 align="center" color: red>Mi nombre es Eric Mulero Fernandez</h1>
+<h1 align="center" >Eric Mulero Fernandez</h1>
 <h3 align="center">Semiprogramador en vias de profesionalizarse</h3>
 
 - 🔭 Actualmente estoy trabajando en **aprender, mejorar y desarrollar mis capacidades**
