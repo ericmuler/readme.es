@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo en **4Geeks(La mejor academia del mundo)**
 
-- 📫 Para llegar a mi escridme a **Ericmulerofernandez@gmail.com**
+- 📫 Para llegar a mi, podéis escribirme a **Ericmulerofernandez@gmail.com**
 
 - ⚡ Dato curioso **El primer «bug de la computadora» fue llamado así a causa de un insecto real. Este bicho fue encontrado por Grace Hopper. El ordenador que ella estaba construyendo comenzó a fallar y fue entonces cuando descubrió una polilla de verdad en el sistema. Desde entonces, cuando algo falla en el software o en el hardware, lo llamamos «bug»**
 
