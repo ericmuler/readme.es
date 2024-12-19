@@ -1,4 +1,4 @@
-<h1 align="center">Mi nombre es Eric Mulero Fernandez</h1>
+<h1 align="center">Eric Mulero Fernandez</h1>
 <h3 align="center">Semiprogramador en vias de profesionalizarse</h3>
 
 - 🔭 Actualmente estoy trabajando en **aprender, mejorar y desarrollar mis capacidades**
@@ -9,7 +9,7 @@
 
 - ⚡ Dato curioso **El primer «bug de la computadora» fue llamado así a causa de un insecto real. Este bicho fue encontrado por Grace Hopper. El ordenador que ella estaba construyendo comenzó a fallar y fue entonces cuando descubrió una polilla de verdad en el sistema. Desde entonces, cuando algo falla en el software o en el hardware, lo llamamos «bug»**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Futuro en construccion continua</h3>
 <p align="left">
 </p>
 
